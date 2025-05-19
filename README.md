@@ -62,7 +62,7 @@ All models were tuned using `GridSearchCV` and evaluated on validation and test 
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/your-username/heart-disease-classification.git
+    git clone https://github.com/mohamedabdelraouf7/heart-disease-classification.git
     cd heart-disease-classification
     ```
 
